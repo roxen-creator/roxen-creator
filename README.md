@@ -6,5 +6,5 @@ About me: I'm a passionate technologist with a keen eye for aesthetics and a lov
 
 I'm intrested in 🎨 Graphic Designing | UI/UX Designing | Mobile App Development | Front-End Web Development.
 - ⚡ Fun fact: I can write a line of code faster than you can say 'syntax error'.
-- - 📫 How to reach me: just mail me @ itsroxen@gmail.com
+- - 📫 How to reach me: just mail me @ itsroxen56@gmail.com
 
