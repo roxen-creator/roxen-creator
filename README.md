@@ -4,7 +4,7 @@ Welcome to my GitHub bio! Here's a glimpse into my world of creativity, design, 
 
 About me: I'm a passionate technologist with a keen eye for aesthetics and a love for all things design and development. My journey began with graphic designing, where I discovered the power of visual communication and its impact on user experience. From there, I delved into the realms of UI/UX designing, mobile app development, front-end development, and web design. With each new project, I strive to create intuitive and visually captivating experiences that engage and delight users. 
 
-I'm intrested in 🎨 Graphic Designing | UI/UX Designing | Mobile App Development | Front-End Web Development.
+I'm intrested in Front-End Web Development | 🎨 Graphic Designing | UI/UX Designing | Mobile App Development |.
 - ⚡ Fun fact: I can write a line of code faster than you can say 'syntax error'.
 - - 📫 How to reach me: just mail me @ itsroxen56@gmail.com
 
